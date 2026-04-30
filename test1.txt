@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+This is a test document to check the plagiarism checker.
+It contains some unique sentences and some copied sentences.
+Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems.

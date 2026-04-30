@@ -1,0 +1,5 @@
+A fast brown fox leaps over a sleeping dog.
+This is a test document to check the plagiarism checker.
+Here we have completely different text that shouldn't match.
+Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems.
+It is very useful!
