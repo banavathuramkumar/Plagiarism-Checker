@@ -92,8 +92,8 @@ http://localhost:3000
 **Ramkumar**  
 Full Stack Developer (MERN)
 
-- **LinkedIn:** https://www.linkedin.com/in/banavathu-ramkumar-b55bbb33a/
-- **GitHub:** https://github.com/AP24110010769
+- **LinkedIn:** https://www.linkedin.com/in/banavathu-ramkumar/
+- **GitHub:** https://github.com/banavathuramkumar
 
 ## Feedback
 
